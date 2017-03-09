@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963049184884",
+    "firebase_url": "https://agromarketbeta-master-master.firebaseio.com",
+    "project_id": "agromarketbeta-master-master",
+    "storage_bucket": "agromarketbeta-master-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963049184884:android:9c91021ee0696963",
+        "android_client_info": {
+          "package_name": "com.example.slawomirmakurat.agromarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963049184884-bl6vim9cut0evu1lb6qk83etqj5g0jnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.slawomirmakurat.agromarket",
+            "certificate_hash": "0320a81aabcc068b1f1f9d2c8cf23a7d17cd80ed"
+          }
+        },
+        {
+          "client_id": "963049184884-j1a9unqojl3dqio4jqqrkacjebcq7sb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAjoXoLMBjJMyHXfbChDSbDMXUelFCYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963049184884-j1a9unqojl3dqio4jqqrkacjebcq7sb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
